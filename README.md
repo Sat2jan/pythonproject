@@ -1,4 +1,4 @@
 # pythonproject
 This is my first Git Repository
 <br>
-Author - Satyam Prasad
+Author - Satyam kiddo
